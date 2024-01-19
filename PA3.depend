@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1704553969 source:c:\users\izzet\desktop\4-1\441\hmw\hmw3\pa3\main.cpp
+	<iostream>
+	"adhoc.h"
+	<ctime>
+	<vector>
+	<queue>
+	<unordered_map>
+	<unordered_set>
+	<algorithm>
+
+1704553779 c:\users\izzet\desktop\4-1\441\hmw\hmw3\pa3\adhoc.h
+	<string>
+	<vector>
+
+1704749703 source:c:\users\izzet\desktop\4-1\441\hmw\hmw3\pa3 2443836\main.cpp
+	<iostream>
+	"adhoc.h"
+	<vector>
+
+1704749767 c:\users\izzet\desktop\4-1\441\hmw\hmw3\pa3 2443836\adhoc.h
+	<string>
+	<vector>
+
