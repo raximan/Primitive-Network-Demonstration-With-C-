@@ -1,13 +1,15 @@
-# Data Structure Assignment
 
-## Overview
+This C++ project demonstrates a basic ad hoc networking model and simulates packet flow between nodes. It implements:
+- **Packet integrity checks** using a custom hash function  
+- **Pathfinding** with a breadth-first search (BFS)-style traversal  
+- **Random message corruption** to mimic real-world transmission errors  
+- **Multiple node classes** (`Node`, `Network`, `Packet`, `MacPacket`) to structure the flow of messages
 
-This repository contains code for a Data Structure assignment completed as part of the course requirements at Middle East Technical University. Due to time constraints, the header files lack distinctiveness, but the code aims to fulfill the requirements outlined in the accompanying instructions PDF.
+Nodes pass `Packet` objects along a calculated path until the destination is reached or an error occurs, showcasing how data might be relayed in a simplified network. It uses a **probabilistic corruption rate** to randomly alter message payloads and demonstrates how to handle successes or failures at each node.
 
-## Instructions
+---
 
-For a comprehensive understanding of the code and its implementation, please refer to the instructions PDF included in this repository. The document provides valuable insights into the tasks accomplished and serves as a guide to enhance your coding skills.
+### Additional CV Project
 
-Feel free to explore the code and leverage it as a learning resource to further develop your proficiency in Data Structures. If you have any questions or need clarification, don't hesitate to reach out.
-
-Happy coding!
+**Python TensorFlow Classifier**  
+Developed a classification model using TensorFlow to categorize text documents based on their content. Created a preprocessing pipeline, trained on a labeled dataset, and evaluated the model’s accuracy. This project underscores skills in **data preprocessing**, **neural network training**, and **model validation** for real-world applications.
