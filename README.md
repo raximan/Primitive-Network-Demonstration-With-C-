@@ -7,9 +7,3 @@ This C++ project demonstrates a basic ad hoc networking model and simulates pack
 
 Nodes pass `Packet` objects along a calculated path until the destination is reached or an error occurs, showcasing how data might be relayed in a simplified network. It uses a **probabilistic corruption rate** to randomly alter message payloads and demonstrates how to handle successes or failures at each node.
 
----
-
-### Additional CV Project
-
-**Python TensorFlow Classifier**  
-Developed a classification model using TensorFlow to categorize text documents based on their content. Created a preprocessing pipeline, trained on a labeled dataset, and evaluated the model’s accuracy. This project underscores skills in **data preprocessing**, **neural network training**, and **model validation** for real-world applications.
